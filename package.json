@@ -1,0 +1,16 @@
+{
+  "name": "mi9-test",
+  "version": "1.0.0",
+  "description": "Ali Chamas test for mi9 job",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.html",
+    "start": "node server.js"
+  },
+  "author": "Ali Chamas (c)",
+  "license": "MIT"
+}
